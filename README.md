@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakashahmurzada
-- 👀 I’m interested in backend programming
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in full-stack or front-end programming
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C#
 - 💞️ I’m looking to collaborate on backend development team
 - 📫 How to reach me zakashahmur@outlook.com
 

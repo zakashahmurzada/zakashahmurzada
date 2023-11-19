@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zakashahmurzada
 - 👀 I’m a data scientist
 - 🌱 I’m currently working on ML, AI, Data Science
-- I’m looking to collaborate on Data Science, ML, AI team
+- 👨‍💻 I’m looking to collaborate on Data Science, ML, AI team
 - 📫 How to reach me zakashahmur@outlook.com
 
 <!---
